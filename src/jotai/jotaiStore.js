@@ -1,6 +1,6 @@
 import { atom } from "jotai";
 
-const defaultData = { 
+export const defaultData = { 
     name: "",
     role: "", 
     qualification: "", 
